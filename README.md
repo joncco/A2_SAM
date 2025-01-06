@@ -9,5 +9,5 @@ Updates:
 Fixed slot dimensions (original was too big)
 
 Removed solder mask from area around slot pins.
-
+![Alt text](SAM_2.png)
 
